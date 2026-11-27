@@ -1,0 +1,11 @@
+Elenco delle pagine da studiare per la verifica di sistemi del 30/11/2026
+
+1) La crittografia simmetrica
+172 - 178 (AES soltanto la questione della grandezza, non il funzionamento perchè non lo abbiamo fatto)
+2) La crittografia asimmetrica
+184 - 193
+3) Sistemi di autentificazione
+196 - 203
+
+1) La sicurezza nei sistemi informativi
+232 - 246 (non so se si deve fare "la gestione delle chiavi")
